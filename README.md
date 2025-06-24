@@ -1,1 +1,1 @@
-# QSAR_SARS_SARS_3Clike_proteinase
+# QSAR_SARS_3Clike_proteinase
